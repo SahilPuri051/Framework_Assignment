@@ -1,0 +1,40 @@
+2019-03-24 15:21:46 INFO  LogReportInitializer:14 - usernametype == Starting==
+2019-03-24 15:21:52 INFO  LogReportInitializer:20 - usernametypePass ******
+2019-03-24 15:21:53 INFO  LogReportInitializer:14 - usernametext == Starting==
+2019-03-24 15:21:53 INFO  LogReportInitializer:20 - usernametextPass ******
+2019-03-24 15:21:54 INFO  LogReportInitializer:14 - passwordtext == Starting==
+2019-03-24 15:21:55 INFO  LogReportInitializer:20 - passwordtextPass ******
+2019-03-24 15:21:57 INFO  LogReportInitializer:14 - passwordtype == Starting==
+2019-03-24 15:21:57 INFO  LogReportInitializer:20 - passwordtypePass ******
+2019-03-24 15:21:58 INFO  LogReportInitializer:14 - welcomeMsg == Starting==
+2019-03-24 15:21:58 INFO  LogReportInitializer:20 - welcomeMsgPass ******
+2019-03-24 15:21:59 INFO  LogReportInitializer:14 - checkTitle == Starting==
+2019-03-24 15:21:59 INFO  LogReportInitializer:20 - checkTitlePass ******
+2019-03-24 15:22:00 INFO  LogReportInitializer:14 - loginButtonHeight == Starting==
+2019-03-24 15:22:00 INFO  LogReportInitializer:20 - loginButtonHeightPass ******
+2019-03-24 15:22:01 INFO  LogReportInitializer:14 - loginButtonColor == Starting==
+2019-03-24 15:22:01 INFO  LogReportInitializer:20 - loginButtonColorPass ******
+2019-03-24 15:22:01 INFO  LogReportInitializer:14 - loginButtonalign == Starting==
+2019-03-24 15:22:01 INFO  LogReportInitializer:20 - loginButtonalignPass ******
+2019-03-24 15:22:02 INFO  LogReportInitializer:14 - checkboxinital == Starting==
+2019-03-24 15:22:02 INFO  LogReportInitializer:20 - checkboxinitalPass ******
+2019-03-24 15:22:03 INFO  LogReportInitializer:14 - checkboxfinal == Starting==
+2019-03-24 15:22:04 INFO  LogReportInitializer:20 - checkboxfinalPass ******
+2019-03-24 15:22:04 INFO  LogReportInitializer:14 - usernameParameters == Starting==
+2019-03-24 15:22:04 INFO  LogReportInitializer:20 - usernameParametersPass ******
+2019-03-24 15:22:05 INFO  LogReportInitializer:14 - loginErrorMsgTest == Starting==
+2019-03-24 15:22:10 INFO  LogReportInitializer:20 - loginErrorMsgTestPass ******
+2019-03-24 15:23:57 INFO  LogReportInitializer:14 - checkHomePageTitle == Starting==
+2019-03-24 15:23:58 INFO  LogReportInitializer:20 - checkHomePageTitlePass ******
+2019-03-24 15:24:42 INFO  LogReportInitializer:14 - clickOnChart == Starting==
+2019-03-24 15:24:54 INFO  LogReportInitializer:20 - clickOnChartPass ******
+2019-03-24 15:24:55 INFO  LogReportInitializer:14 - downloadPngTest == Starting==
+2019-03-24 15:24:59 INFO  LogReportInitializer:20 - downloadPngTestPass ******
+2019-03-24 15:25:00 INFO  LogReportInitializer:14 - downloadedFileNameAssert == Starting==
+2019-03-24 15:25:00 INFO  LogReportInitializer:20 - downloadedFileNameAssertPass ******
+2019-03-24 15:25:01 INFO  LogReportInitializer:14 - downloadedFileDateAssert == Starting==
+2019-03-24 15:25:01 INFO  LogReportInitializer:14 - downloadedFileDateAssert == Starting==
+2019-03-24 15:25:01 INFO  LogReportInitializer:14 - downloadedFileDateAssert == Starting==
+2019-03-24 15:25:01 INFO  LogReportInitializer:28 - downloadedFileDateAssert Fail *****
+2019-03-24 15:25:02 INFO  LogReportInitializer:14 - imageComparison == Starting==
+2019-03-24 15:25:16 INFO  LogReportInitializer:20 - imageComparisonPass ******

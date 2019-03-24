@@ -1,0 +1,4 @@
+com\qa\tests\APITest_GET.class
+com\qa\tests\APITest_PUT.class
+com\qa\tests\APITest_DELETE.class
+com\qa\tests\APITest_POST.class

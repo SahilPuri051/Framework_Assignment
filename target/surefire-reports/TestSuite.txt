@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 11.26 s <<< FAILURE! - in TestSuite
+getAPITest(com.qa.tests.APITest_GET)  Time elapsed: 4.656 s  <<< FAILURE!
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_GET.getAPITest(APITest_GET.java:26)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_GET.getAPITest(APITest_GET.java:26)
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_GET.getAPITest(APITest_GET.java:26)
+
+postAPITest(com.qa.tests.APITest_POST)  Time elapsed: 1.693 s  <<< FAILURE!
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_POST.postAPITest(APITest_POST.java:38)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_POST.postAPITest(APITest_POST.java:38)
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_POST.postAPITest(APITest_POST.java:38)
+
+putApiTest(com.qa.tests.APITest_PUT)  Time elapsed: 0.391 s  <<< FAILURE!
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_PUT.putApiTest(APITest_PUT.java:38)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_PUT.putApiTest(APITest_PUT.java:38)
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_PUT.putApiTest(APITest_PUT.java:38)
+
+deleteAPITest(com.qa.tests.APITest_DELETE)  Time elapsed: 0.312 s  <<< FAILURE!
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_DELETE.deleteAPITest(APITest_DELETE.java:23)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_DELETE.deleteAPITest(APITest_DELETE.java:23)
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at com.qa.tests.APITest_DELETE.deleteAPITest(APITest_DELETE.java:23)
+

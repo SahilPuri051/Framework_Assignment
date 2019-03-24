@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name='com.qa.utilities.CustomListeners'></listener>
+<listener class-name='com.qa.utilities.AnnotationTransformer'></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.tests.LoginPageTest"/>
+      <class name="com.qa.tests.HomePageTest"/>
+      <class name="com.qa.tests.ACEPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

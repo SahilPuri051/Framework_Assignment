@@ -1,0 +1,24 @@
+2019-03-23 20:48:44 INFO  TestBase:14 - usernametype == Starting==
+2019-03-23 20:48:52 INFO  TestBase:20 - usernametypePass ******
+2019-03-23 20:48:53 INFO  TestBase:14 - usernametext == Starting==
+2019-03-23 20:48:53 INFO  TestBase:20 - usernametextPass ******
+2019-03-23 20:48:53 INFO  TestBase:14 - passwordtext == Starting==
+2019-03-23 20:48:53 INFO  TestBase:20 - passwordtextPass ******
+2019-03-23 20:48:54 INFO  TestBase:14 - passwordtype == Starting==
+2019-03-23 20:48:55 INFO  TestBase:20 - passwordtypePass ******
+2019-03-23 20:48:56 INFO  TestBase:14 - welcomeMsg == Starting==
+2019-03-23 20:48:56 INFO  TestBase:20 - welcomeMsgPass ******
+2019-03-23 20:48:56 INFO  TestBase:14 - checkTitle == Starting==
+2019-03-23 20:48:56 INFO  TestBase:20 - checkTitlePass ******
+2019-03-23 20:48:57 INFO  TestBase:14 - loginButtonHeight == Starting==
+2019-03-23 20:48:57 INFO  TestBase:20 - loginButtonHeightPass ******
+2019-03-23 20:48:57 INFO  TestBase:14 - loginButtonColor == Starting==
+2019-03-23 20:48:57 INFO  TestBase:20 - loginButtonColorPass ******
+2019-03-23 20:48:58 INFO  TestBase:14 - loginButtonalign == Starting==
+2019-03-23 20:48:58 INFO  TestBase:20 - loginButtonalignPass ******
+2019-03-23 20:48:58 INFO  TestBase:14 - checkboxinital == Starting==
+2019-03-23 20:48:59 INFO  TestBase:20 - checkboxinitalPass ******
+2019-03-23 20:48:59 INFO  TestBase:14 - checkboxfinal == Starting==
+2019-03-23 20:48:59 INFO  TestBase:20 - checkboxfinalPass ******
+2019-03-23 20:49:00 INFO  TestBase:14 - usernameParameters == Starting==
+2019-03-23 20:49:00 INFO  TestBase:20 - usernameParametersPass ******
